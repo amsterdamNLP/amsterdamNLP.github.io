@@ -1,3 +1,4 @@
+---
 layout: bubblelist
 title: People
 menu: yes
@@ -5,7 +6,7 @@ menu: yes
 
 ## Researchers
 
-{% assign people = (site.data.staff | where: "selected", "n") %}
+{% assign people = (site.data.staff | where: "selected", "nlp") %}
 {% include people.html people=people %}
 
 ## PhD candidates
@@ -18,3 +19,5 @@ menu: yes
 {% assign people = (site.data.staff | where: "selected", "nlpalumni") %}
 {% include people.html people=people %}
 
+{% assign people = (site.data.phds | where: "selected", "nlpalumni") %}
+{% include people.html people=people %}
