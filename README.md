@@ -1,6 +1,6 @@
-# CL-ILLC
+# AmsterdamNLP
 
-This repository hosts cl-illc's github pages.
+This repository hosts AmsterdamNLP's github pages.
 
 # Contribute a page
 

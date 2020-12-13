@@ -2,7 +2,7 @@
 layout: main
 ---
 
-*This is under construction*
+*AmsterdamNLP is an initiative of the Language and Computation group of the ILLC at the University of Amsterdam*
 
 # About
 

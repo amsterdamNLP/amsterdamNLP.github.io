@@ -1,11 +1,11 @@
 exclude: [README.md, resources/src]
-title: Computational Linguistics at ILLC
-email: w.aziz@uva.nl
+title: AmsterdamNLP: Natural Language Processing at the University of Amsterdam
+email: zuidema@uva.nl
 description: > 
     This is where you will find all about computational linguistics at the ILLC.
-url: "//cl-illc.github.io" # the base hostname & protocol for your site
+url: "//amsterdamNLP.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-github_username: cl-illc
+github_username: amsterdamNLP
 paginate: 3
 
 # useful links
