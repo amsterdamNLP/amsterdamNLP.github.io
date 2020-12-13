@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Things you might know us for...
-menu: no
+menu: yes
 ---
 
 
