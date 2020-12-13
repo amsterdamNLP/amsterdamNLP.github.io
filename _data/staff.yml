@@ -7,6 +7,20 @@
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Beelen+K.
 -
   layout: person
+  selected: nlp
+  institution: UvA
+  img: avatar
+  name: Sandro Pezelle
+  url: //sandropezzelle.github.io/
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: avatar
+  name: Arabella Sinclair
+  url: //staff.fnwi.uva.nl/a.j.sinclair/
+-
+  layout: person
   selected: n
   institution: UvA
   img: rens

@@ -93,20 +93,20 @@
   layout: person
   selected: nlp
   institution: UvA
-  img: rochelle
+  img: avatar
   name: Rochelle Choenni
   url: //www.illc.uva.nl
 -
   layout: person
   selected: nlp
   institution: UvA
-  img: oskar
+  img: avatar
   name: Oskar van der Wal
   url: //www.illc.uva.nl
 -
   layout: person
   selected: nlp
   institution: UvA
-  img: jaap
+  img: avatar
   name: Jaap Jumelet
   url: //www.illc.uva.nl
