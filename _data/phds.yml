@@ -2,6 +2,13 @@
   layout: person
   selected: nlp
   institution: UvA
+  img: ece
+  name: Ece Takmaz
+  url: //ecekt.github.io
+-
+  layout: person
+  selected: nlp
+  institution: UvA
   img: samira
   name: Samira Abnar
   url: //staff.fnwi.uva.nl/s.abnar/
