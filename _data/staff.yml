@@ -1,5 +1,74 @@
 -
   layout: person
+  selected: nlp
+  institution: UvA
+  img: khalil
+  name: Khalil Sima'an
+  url: //staff.fnwi.uva.nl/k.simaan/
+  msg: |
+      My work is mainly on probabilistic modeling for machine translation, parsing, morphology and other NLP tasks.
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: raquel
+  name: Raquel Fernández 
+  url: //staff.science.uva.nl/r.fernandezrovira/
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: jelle
+  name: Jelle Zuidema 
+  url: //staff.fnwi.uva.nl/w.zuidema/
+  msg: |
+      I am interested in the complex structure of natural language, how neural networks and the human brain can learn and process that structure, and how evolution discovered it.
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: ekaterina
+  name: Ekaterina Shutova 
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Shutova+E. 
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: ivan
+  name: Ivan Titov 
+  url: //ivan-titov.org 
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: wilker
+  name: Wilker Aziz
+  url: //wilkeraziz.github.io
+  msg: |
+      I am interested in probabilistic models for NLP and methods for approximate inference in general.
+-
+  layout: person
+  selected: music
+  institution: UvA
+  img: henkjan
+  name: Henkjan Honing 
+  url: //www.mcg.uva.nl 
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: jaap
+  name: Jaap Kamps 
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Kamps+J.
+-
+  layout: person
+  selected: nlpalumni
+  institution: UvA
+  img: tom
+  name: Tom Lentz 
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Lentz+T.O. 
+-
+  layout: person
   selected: n
   institution: UvA
   img: kaspar
@@ -84,43 +153,6 @@
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Di+Marco+M.
 -
   layout: person
-  selected: nlp
-  institution: UvA
-  img: raquel
-  name: Raquel Fernández 
-  url: //staff.science.uva.nl/r.fernandezrovira/
--
-  layout: person
-  selected: nlp
-  institution: UvA
-  img: wilker
-  name: Wilker Aziz
-  url: //wilkeraziz.github.io
-  msg: |
-      I am interested in probabilistic models for NLP and methods for approximate inference in general.
--
-  layout: person
-  selected: music
-  institution: UvA
-  img: henkjan
-  name: Henkjan Honing 
-  url: //www.mcg.uva.nl 
--
-  layout: person
-  selected: nlp
-  institution: UvA
-  img: jaap
-  name: Jaap Kamps 
-  url: //www.illc.uva.nl/People/show_person.php?Person_id=Kamps+J.
--
-  layout: person
-  selected: nlpalumni
-  institution: UvA
-  img: tom
-  name: Tom Lentz 
-  url: //www.illc.uva.nl/People/show_person.php?Person_id=Lentz+T.O. 
--
-  layout: person
   selected: nlpalumni
   institution: UvA
   img: diego
@@ -151,29 +183,6 @@
   layout: person
   selected: nlp
   institution: UvA
-  img: ekaterina
-  name: Ekaterina Shutova 
-  url: //www.illc.uva.nl/People/show_person.php?Person_id=Shutova+E. 
--
-  layout: person
-  selected: nlp
-  institution: UvA
-  img: khalil
-  name: Khalil Sima'an
-  url: //staff.fnwi.uva.nl/k.simaan/
-  msg: |
-      My work is mainly on probabilistic modeling for machine translation, parsing, morphology and other NLP tasks.
--
-  layout: person
-  selected: nlp
-  institution: UvA
-  img: ivan
-  name: Ivan Titov 
-  url: //ivan-titov.org 
--
-  layout: person
-  selected: nlp
-  institution: UvA
   img: daniel
   name: Daniel Wiechmann
   url: //www.daniel-wiechmann.net
@@ -184,12 +193,3 @@
   img: henk
   name: Henk Zeevat
   url: //home.medewerker.uva.nl/h.w.zeevat/
--
-  layout: person
-  selected: nlp
-  institution: UvA
-  img: jelle
-  name: Jelle Zuidema 
-  url: //staff.fnwi.uva.nl/w.zuidema/
-  msg: |
-      I am interested in the complex structure of natural language, how neural networks and the human brain can learn and process that structure, and how evolution discovered it.

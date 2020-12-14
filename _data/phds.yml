@@ -28,6 +28,13 @@
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Arnoult+S.I.
 -
   layout: person
+  selected: nlp
+  institution: UvA
+  img: bryan
+  name: Bryan Eikema
+  url: //roxot.github.io
+-
+  layout: person
   selected: music
   institution: UvA
   img: bas 
