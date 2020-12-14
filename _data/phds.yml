@@ -9,6 +9,13 @@
   layout: person
   selected: nlp
   institution: UvA
+  img: mario
+  name: Mario Giulianelli
+  url: //gmario.eu/
+-
+  layout: person
+  selected: nlp
+  institution: UvA
   img: samira
   name: Samira Abnar
   url: //staff.fnwi.uva.nl/s.abnar/
