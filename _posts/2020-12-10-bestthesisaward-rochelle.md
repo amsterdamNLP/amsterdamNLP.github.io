@@ -8,12 +8,7 @@ Amsterdam Data Science has awarded one of its best thesis award to Amsterdam's R
 
 Supervisor: Dr. Ekaterina Shutova, University of Amsterdam
 
-In her MSc thesis Rochelle Choenni focuses on the interpretation of popular multilingual sentence encoders, investigating which linguistic typological properties they encode and how. More specifically, in her thesis she
-
-    Sheds light on the lexical, morphological and syntactic properties captured by multilingual sentence encoders;
-    Investigates how these properties are encoded in different layers of the neural network;
-    Studies the influence of different architectures and pretraining strategies on the encoded properties;
-    Identifies the way in which relevant properties are jointly captured across languages.
+In her MSc thesis Rochelle Choenni focuses on the interpretation of popular multilingual sentence encoders, investigating which linguistic typological properties they encode and how. More specifically, in her thesis she *"Sheds light on the lexical, morphological and syntactic properties captured by multilingual sentence encoders; Investigates how these properties are encoded in different layers of the neural network; Studies the influence of different architectures and pretraining strategies on the encoded properties; Identifies the way in which relevant properties are jointly captured across languages."*
 
 Rochelle’s thesis work contributes to a better understanding of modern natural language processing techniques and makes an important step in making them more accessible to low-resource languages. It served as the basis for research paper submissions at the top conferences in artificial intelligence and computational linguistics fields. In addition, the results of the thesis could be relevant to related research fields, such as information retrieval, computer vision and multimedia. Details about the results reproducibility are provided in the Appendix B of the thesis.
 
