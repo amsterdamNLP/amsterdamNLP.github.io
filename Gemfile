@@ -16,5 +16,4 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "jekyll-katex"
   gem "jekyll-compose"
-  gem "jekyll-twitter-plugin"
 end
