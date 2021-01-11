@@ -9,7 +9,7 @@
 7. Add pages to `_pages` and link them from `_data/navigation.yml`
 8. Short bio goes in `_config.yml` under `author`, long bio goes in `_pages/bio.md`
 9. For the home page use `index.html`
-10. Twitter feed in `_includes/author-profile-custom-links.html`, requires [downloading the plugin](https://github.com/rob-murray/jekyll-twitter-plugin)
+10. Twitter feed in `_includes/author-profile-custom-links.html`
 
 # Minimal Mistakes remote theme starter
 

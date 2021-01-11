@@ -55,7 +55,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-katex
-  - jekyll-twitter-plugin
 
 author:
   avatar : "/assets/images/me.jpg"
