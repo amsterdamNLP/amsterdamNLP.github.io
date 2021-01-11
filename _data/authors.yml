@@ -1,0 +1,24 @@
+wzuidema:
+    name: "Jelle Zuidema"
+    bio: "I am associate professor in computational linguistics and cognitive science at the Institute for Logic, Language and Computation."
+    avatar: "/assets/images/wzuidema.jpg"
+    links:
+        - label: "Website"
+          icon: "fas fa-fw fa-link"
+          url: "https://staff.fnwi.uva.nl/w.zuidema/"
+        - label: "Twitter"
+          icon: "fab fa-fw fa-twitter-square"
+          url: "https://twitter.com/wzuidema"
+
+waziz:
+    name: "Wilker Aziz"
+    bio: "I am assistant professor in machine learning for natural language processing at the Institute for Logic, Language and Computation."
+    avatar: "/assets/images/waziz.jpg"
+    links:
+        - label: "Website"
+          icon: "fas fa-fw fa-link"
+          url: "https://wilkeraziz.github.io"
+        - label: "Twitter"
+          icon: "fab fa-fw fa-twitter-square"
+          url: "https://twitter.com/wilkeraziz"
+
