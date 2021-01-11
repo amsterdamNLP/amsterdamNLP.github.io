@@ -3,15 +3,13 @@ layout: home
 author_profile: true
 ---
 
-{% capture bio %}
-
+{% capture about %}
 Academic research in NLP in Amsterdam is distributed over two universities and multiple institutes and departments. The NLP-group/CL-group at ILLC is the largest cluster of NLP researchers in Amsterdam, but there are a lot of other researchers in Amsterdam working on NLP technology and even more working with NLP technology.
 
 * More about the people and activities in [computational linguistics at ILLC](//cl-illc.github.io)
 * More about the [Computational Lexicology & Terminology Lab at the Free University of Amsterdam](http://www.cltl.nl/)
 * More about the [Information Retrieval Lab at the Institute for Informatics at the University of Amsterdam](http://irlab.science.uva.nl/)
 * More about the [Language Technology Lab at the Institute for Informatics at the University of Amsterdam](https://staff.science.uva.nl/c.monz/ltl/)
+{% endcapture %} 
 
-{% endcapture %}
-
-<div class="notice--info">{{ bio | markdownify }}</div>
+<div class="notice--info">{{ about | markdownify }}</div>

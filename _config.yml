@@ -55,6 +55,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-katex
+  - jekyll-twitter-plugin
 
 author:
   avatar : "/assets/images/me.jpg"
@@ -70,12 +71,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/amsterdamNLP
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/amsterdamNLP
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: https://twitter.com/amsterdamNLP
 
 defaults:
   # _posts
