@@ -3,8 +3,8 @@ title: "Maartje ter Hoeve in Data Skeptic Podcast about Summarization"
 categories:
   - blog
 tags:
-  - awards
-  - ILLC
+  - media
+  - IRLab
 author: wzuidema
 ---
 
