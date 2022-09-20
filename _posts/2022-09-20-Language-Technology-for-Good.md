@@ -1,4 +1,4 @@
-Amsterdam Data Science is organizing a Meet-up on how Language Technology can be use for Good.
+Amsterdam Data Science is organizing a Meet-up on how Language Technology can be used for Good.
 
 13 October 2022 in Amsterdam City Center. 
 
