@@ -59,7 +59,7 @@ plugins:
 author:
   avatar : "/assets/images/me.jpg"
   bio    : >
-      AmsterdamNLP is an initiative of the computational linguists in the Language and Computation group of the ILLC at the University of Amsterdam. We aim to collect and share information about results, papers and events relevant for anyone professionally interested in NLP in the Amsterdam area. 
+      AmsterdamNLP, a network for anyone interested in academic research in NLP in the Amsterdam area. 
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
