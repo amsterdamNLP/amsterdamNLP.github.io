@@ -1,4 +1,7 @@
-Amsterdam Data Science is organizing a Meet-up on how Language Technology can be used for Good.
+
+The new website for the [Language Sciences for Social Good](https://projects.illc.uva.nl/LSG/) network has been launched.
+
+One of our first initiative will be a meetup, organized by Amsterdam Data Science, on how Language Technology can be used for Social Good.
 
 13 October 2022 in Amsterdam City Center. 
 
