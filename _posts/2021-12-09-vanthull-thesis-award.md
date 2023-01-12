@@ -1,5 +1,5 @@
 ---
-title: "Best thesis award from Amsterdam Data Science for Rochelle Choenni"
+title: "Best thesis award from Amsterdam Data Science for Rachel van ‘t Hull"
 categories:
   - blog
 tags:
