@@ -5,7 +5,7 @@ categories:
 tags:
   - events
   - ILLC
-author: wzuidema
+author: AmsterdamNLP
 ---
 
 An afternoon with ChatGPT: A discussion of generative language models & its impact on the university
