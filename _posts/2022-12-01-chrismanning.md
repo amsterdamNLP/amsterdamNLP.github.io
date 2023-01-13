@@ -1,0 +1,2 @@
+The University of Amsterdam has [announced](https://www.uva.nl/en/content/news/press-releases/2022/11/uva-honorary-doctorates-for-psychiatrist-vikram-patel-and-computer-scientist-christopher-manning.html) that they will award an honorary doctorate to Stanford's Christopher Manning for “for his pioneering research contributions in the field of Natural Language Processing.” A symposium is also being organized prior to the award ceremony.
+
