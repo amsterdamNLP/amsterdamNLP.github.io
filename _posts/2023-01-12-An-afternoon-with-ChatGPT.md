@@ -29,7 +29,7 @@ Our Afternoon is inspired by [An Evening with ChatGPT](https://www.rug.nl/societ
 
 #### Contact
 
-Email the organizers: cllab-assist@gmail.com (or email Jelle Zuidema directly).
+Email the organizers: cllab.assist@gmail.com (or email Jelle Zuidema directly).
 
 
 
