@@ -1,5 +1,5 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "LargeLanguageModels@Amsterdam"
-    url: /_pages/largelanguagemodels.md
+  - title: "LargeLanguageModels"
+    url: /largelanguagemodels/
