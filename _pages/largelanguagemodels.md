@@ -10,6 +10,7 @@ There is much research on Large Language Models happening in Amsterdam. Here is 
 
 ## Raquel Fernández, Jelle Zuidema, Jelke Bloem, Sandro Pezelle, Ece Takmaz, Mario Guilianelli (2023)
 "An Afternoon with ChatGPT" -- Public lectures on ChatGPT
+
 <img src="../assets/images/anafternoonwithchatgpt1.jpg" alt="anafternoonwithchatgpt1" width="400"/>
 
 ### Recording
