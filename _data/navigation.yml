@@ -2,4 +2,4 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "LargeLanguageModels"
-    url: /_pages/largelanguagemodels
+    url: /largelanguagemodels
