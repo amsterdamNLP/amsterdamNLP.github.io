@@ -9,9 +9,11 @@ There is much research on Large Language Models happening in Amsterdam. Here is 
 *Er gebeurt veel onderzoek over gigantische taalmodellen (Large Language Models, Foundation Models)  in Amsterdam. Hier is selectie van onderzoekers, en journliastieke en wetenschappelijke publicaties.*
 
 ## Raquel Fernández, Jelle Zuidema, Jelke Bloem, Sandro Pezelle, Ece Takmaz, Mario Guilianelli (2023)
-Public lectures on ChatGPT
-
+"An Afternoon with ChatGPT" -- Public lectures on ChatGPT
 <img src="../assets/images/anafternoonwithchatgpt1.jpg" alt="anafternoonwithchatgpt1" width="400"/>
+
+### Recording
+[Recording](https://webcolleges.uva.nl/Mediasite/Play/03f5830f6e804ad68e9ec8ba6612d8d81d)
 
 ## Arabella Sinclair, Jaap Jumelet, Willem Zuidema, Raquel Fernández (2022)
 Research on how much knowledge of grammar is acquired by large language models.
