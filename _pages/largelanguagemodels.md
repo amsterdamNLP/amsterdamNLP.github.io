@@ -1,7 +1,7 @@
 ---
 title: "Large Language Models @Amsterdam"
 permalink: /largelanguagemodels/
-layout: posts
+layout: single
 author_profile: true
 ---
 
