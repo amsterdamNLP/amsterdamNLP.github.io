@@ -1,9 +1,11 @@
 ---
 title: "largelanguagemodels"
 permalink: /largelanguagemodels/
-layout: tags
+layout: pages
 author_profile: true
 ---
+
+# Large Language Models @Amsterdam
 
 There is much research on Large Language Models happening in Amsterdam. Here is a selection of recent research and media reports that might be of interest.
 *Er gebeurt veel onderzoek over gigantische taalmodellen (Large Language Models, Foundation Models)  in Amsterdam. Hier is selectie van onderzoekers, en journliastieke en wetenschappelijke publicaties.*
