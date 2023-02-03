@@ -45,6 +45,7 @@ Oskar van der Wal, Dominik Bachmann, Alina Leidinger, Leendert van Maanen, Wille
 Research on the evolution of undesirable biases in Large Language Models during training.
 *Onderzoek naar het ontstaan van ongewenste biases in grote taalmodellen.*
 
+- [Blog post](https://odvanderwal.nl/2022/birth-of-bias.html)
 - Scientific publication:  
 Oskar van der Wal, Jaap Jumelet, Katrin Schulz, Willem Zuidema (2022), The Birth of Bias: A case study on the evolution of gender bias in an English language model. [arxiv](https://arxiv.org/abs/2207.10245)
 
