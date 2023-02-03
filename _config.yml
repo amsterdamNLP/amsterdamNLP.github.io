@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Natural Language Processing at Amsterdam.
 twitter_username: amsterdamNLP
 github_username: amsterdamNLP
-minimal_mistakes_skin: aqua #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: air #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 search: true
 
