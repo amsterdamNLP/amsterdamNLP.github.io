@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-There is much research on Large Language Models happening in Amsterdam. Because of the great attention for and both excitement and concern for large language models in society and the media, we have here collected a selection of recent research and media reports of Amsterdam-based work in this area.
+There is much research on Large Language Models happening in Amsterdam. Because of the great attention for and both excitement and concern about large language models in society and the media, we have here collected a selection of recent research and media reports of Amsterdam-based work in this area.
 *Er gebeurt veel onderzoek over gigantische taalmodellen (Large Language Models, Foundation Models) in Amsterdam. Vanwege de grote recente interesse in dit soort modellen, en de zorgen daarover in de maatschappij, hebben we hier een selectie van onderzoek en journalistieke en wetenschappelijke publicaties op een rijtje gezet.*
 
 
