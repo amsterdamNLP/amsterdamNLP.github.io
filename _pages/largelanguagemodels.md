@@ -22,7 +22,7 @@ Recent media appearances
 - Recording
 [Recording](https://webcolleges.uva.nl/Mediasite/Play/03f5830f6e804ad68e9ec8ba6612d8d81d)
 
-- Arabella Sinclair, Jaap Jumelet, Willem Zuidema, Raquel Fernández (2022)
+## Arabella Sinclair, Jaap Jumelet, Willem Zuidema, Raquel Fernández (2022)
 Research on how much knowledge of grammar is acquired by large language models.
 *Onderzoek naar hoeveel kennis van grammatica-regels taalmodellen hebben geleerd.*
 
