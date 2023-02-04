@@ -17,7 +17,7 @@ Recent media appearances
 ## Raquel Fernández, Jelle Zuidema, Jelke Bloem, Sandro Pezzelle, Ece Takmaz, Mario Giulianelli (2023)
 "An Afternoon with ChatGPT" -- Public lectures on ChatGPT
 
-<img src="../assets/images/anafternoonwithchatgpt1.jpg" alt="anafternoonwithchatgpt1" width="400"/>
+<img src="../assets/images/anafternoonwithchatgpt1.jpg" alt="anafternoonwithchatgpt1" width="450"/>
 
 - Recording
 [Recording](https://webcolleges.uva.nl/Mediasite/Play/03f5830f6e804ad68e9ec8ba6612d8d81d)
@@ -77,5 +77,7 @@ Stepmothers are mean and academics are pretentious: What do pretrained language 
 ## Dieuwke Hupkes and Jelle Zuidema (2020)
 Interviewed by Dutch national newspaper Trouw about the emerging field of interpretability research.
 *Interview in Trouw over de geboorte van een nieuw vakgebied: interpretability van taalmodellen en andere deep learning modellen.*
+
+<img src="../assets/images/hupkesZuidema20trouw_schoonen.jpg" alt="Interview in Trouw 29/8/2020" width="450"/>
 
 [Trouw article by Willem Schoonen](https://dieuwkehupkes.nl/Trouw-29-08-2020-article.pdf)
