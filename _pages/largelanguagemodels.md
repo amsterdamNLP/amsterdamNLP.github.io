@@ -11,8 +11,7 @@ There is much research on Large Language Models happening in Amsterdam. Because 
 
 ## Links to other resources
 - University of Amsterdam's [Language Sciences for Social Good](https://language-science.nl/) initiative, a consortium of 30 researchers across the language sciences. 
-Recent media appearances
-- [ILLC People in the Media](https://www.illc.uva.nl/Media/In-the-media/current/)
+- Recent media appearances [ILLC People in the Media](https://www.illc.uva.nl/Media/In-the-media/current/)
 
 ## Raquel Fernández, Jelle Zuidema, Jelke Bloem, Sandro Pezzelle, Ece Takmaz, Mario Giulianelli (2023)
 "An Afternoon with ChatGPT" -- Public lectures on ChatGPT
@@ -70,7 +69,7 @@ Onderzoek naar (ongewenste) stereotypen die opduiken in taalmodellen en zoekmach
 
 - Persbericht *Press release*
 [UvA persberichten](https://www.uva.nl/content/nieuws/persberichten/2021/11/welke-stereotypen-zitten-ingebakken-in-ai-taalmodellen.html?origin=8geT2goFTZSNjbHsS7pkaQ)
-
+- [Artikel in the Volkskrant](https://www.volkskrant.nl/wetenschap/hoe-stereotypen-in-de-zoekmachine-belanden-en-er-moeilijk-uit-te-halen-zijn~b98f4662/)
 - Scientific publication: 
 Stepmothers are mean and academics are pretentious: What do pretrained language models learn about you? Gepresenteerd op de 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021), 7 november 2021. [ACL Anthology](https://aclanthology.org/2021.emnlp-main.111/).
 
