@@ -48,7 +48,7 @@ Research on the evolution of undesirable biases in Large Language Models during 
 - Scientific publication:  
 Oskar van der Wal, Jaap Jumelet, Katrin Schulz, Willem Zuidema (2022), The Birth of Bias: A case study on the evolution of gender bias in an English language model. [arxiv](https://arxiv.org/abs/2207.10245)
 
-## Jaap Jumelet & 441 other authors (2022)
+## Dieuwke Hupkes, Jaap Jumelet, Mario Giulianelli & 441 other authors (2022)
 The BigBench test suit for quantifying the performance of Large Language Models.
 
 - [Blog post](https://medium.com/syncedreview/444-authors-from-132-institutions-release-big-bench-a-204-task-extremely-difficult-and-diverse-4633ec6e741e) (on Medium)
