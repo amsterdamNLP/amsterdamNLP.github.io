@@ -13,6 +13,11 @@ There is much research on Large Language Models happening in Amsterdam. Because 
 - University of Amsterdam's [Language Sciences for Social Good](https://language-science.nl/) initiative, a consortium of 30 researchers across the language sciences. 
 - Recent media appearances [ILLC People in the Media](https://www.illc.uva.nl/Media/In-the-media/current/)
 
+## Evi-Anne van Dis, Johan Bollen, Robert van Rooij, Jelle Zuidema and Claudi Bockting (2023)
+Opinion article in Nature on how researchers should respond to developments in 'conversational AI'
+
+- Publication: van Dis, E. A., Bollen, J., Zuidema, W., van Rooij, R., & Bockting, C. L. (2023). ChatGPT: five priorities for research. Nature, 614(7947), 224-226. [Article](https://www.nature.com/articles/d41586-023-00288-7)
+
 ## Raquel Fernández, Jelle Zuidema, Jelke Bloem, Sandro Pezzelle, Ece Takmaz, Mario Giulianelli (2023)
 "An Afternoon with ChatGPT" -- Public lectures on ChatGPT
 
