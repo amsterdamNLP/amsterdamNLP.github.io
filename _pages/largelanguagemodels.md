@@ -16,6 +16,7 @@ There is much research on Large Language Models happening in Amsterdam. Because 
 ## Evi-Anne van Dis, Johan Bollen, Robert van Rooij, Jelle Zuidema and Claudi Bockting (2023)
 Opinion article in Nature on how researchers should respond to developments in 'conversational AI'
 
+- Press release *Persbericht UvA*: [link](https://www.uva.nl/content/nieuws/nieuwsberichten/2023/02/chatgpt-in-de-wetenschap-5-aandachtspunten.html?origin=C7qo0vSuQiCeMfPYaosIew)
 - Publication: van Dis, E. A., Bollen, J., Zuidema, W., van Rooij, R., & Bockting, C. L. (2023). ChatGPT: five priorities for research. Nature, 614(7947), 224-226. [Article](https://www.nature.com/articles/d41586-023-00288-7)
 
 ## Raquel Fernández, Jelle Zuidema, Jelke Bloem, Sandro Pezzelle, Ece Takmaz, Mario Giulianelli (2023)
