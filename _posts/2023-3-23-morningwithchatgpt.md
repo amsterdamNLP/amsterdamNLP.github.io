@@ -17,20 +17,3 @@ How does it work? What can it do, and what can it not do? What are some of the e
 
 Sign up [here](https://www.uva.nl/shared-content/faculteiten/en/faculteit-der-geesteswetenschappen/events/2023/04/a-morning-with-chatgpt-a-discussion-of-generative-language-models--its-impact-on-the-university.html?origin=xjLa%2FjwEQd6e5zOlzHzKTg)
 
-#### Program
-
-The program will be a mix of short plenary talks, plenary Q&A, meetings in smaller groups with experts on various aspects of ChatGPT, and examples .
-
-#### Related events
-
-Participants of the [Workshop: ChatGPT for lecturers](https://medewerker.uva.nl/en/science/content-secured/events/2023/01/workshop-chatgpt-for-lecturers.html?origin=HC8DW6SBTu%2B5jadW4gm5wg&cb) are very welcome to an Afternoon with ChatGPT as well. That workshop focuses on practical experience with ChatGPT, while we'll share much more information about the technology behind it, its limitations and its consequences. Organizers of the workshop will also be at our Afternoon to share some highlights of texts produced during the workshop.
-
-Our Afternoon is inspired by [An Evening with ChatGPT](https://www.rug.nl/society-business/schools/jantina-tammes/calendar/an-evening-with-chatgpt) organized by our colleagues at the University of Groningen.
-
-#### Contact
-
-Email the organizers: cllab.assist@gmail.com (or email Jelle Zuidema directly).
-
-
-
-
