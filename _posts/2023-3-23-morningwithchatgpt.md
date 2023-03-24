@@ -13,7 +13,7 @@ author: AmsterdamNLP
 
 Everyone is talking about ChatGPT, and many predict that it and similar 'large language models' will have a major impact on education, learning, science and publishing. The [ILLC](http://www.illc.uva.nl) -- home to Amsterdam's largest research group studying language models -- invites lecturers, students and collaborators to an afternoon on **ChatGPT & the university**. 
 
-How does it work? What can it do, and what can it not do? What are some of the ethical and legal dilemma's when using this technology? We'll have some short talks and demonstrations, and plenty of time to answer your questions.With: Prof Raquel Fernández (*dialogue systems*), Prof Robert van Rooij (*semantics*), Dr Jelle Zuidema (*explainable AI*), Dr Jelke Bloem (*digital humanities*), Dr. Sandro Pezelle (*responsible AI*), Ece Takmaz (*vision-language models*), Mario Guilianelli (*language generation*), and others.
+How does it work? What can it do, and what can it not do? What are some of the ethical and legal dilemma's when using this technology? We'll have some short talks and demonstrations, and plenty of time to answer your questions.With: Prof Raquel Fernández (*dialogue systems*),  Dr Jelle Zuidema (*explainable AI*), Dr Jelke Bloem (*digital humanities*), Dr. Sandro Pezelle (*responsible AI*), Dr Marjolein Lanzing (*philosophy*) and others.
 
 Sign up [here](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ezVLS-twDBMsISMWB06OgRUQlJQVUc2SURQWjdFUldKWlY1QTA5TU4zMS4u)
 
