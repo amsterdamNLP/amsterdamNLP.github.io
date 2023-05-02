@@ -22,7 +22,6 @@ Article in Nature on how researchers should respond to developments in 'conversa
 
 <img src="../assets/images/vandis_etal23nature.png" alt="Van Dis et al (2023)" width="250"/>
 
-
 ## Raquel Fernández, Jelle Zuidema, Jelke Bloem, Sandro Pezzelle, Ece Takmaz, Mario Giulianelli (2023)
 "An Afternoon with ChatGPT" -- Public lectures on ChatGPT
 
@@ -30,6 +29,14 @@ Article in Nature on how researchers should respond to developments in 'conversa
 
 - Recording
 [Recording](https://webcolleges.uva.nl/Mediasite/Play/03f5830f6e804ad68e9ec8ba6612d8d81d)
+
+## Hosein Mohebbi, Willem Zuidema, Grzegorz Chrupała, Afra Alishahi (2023)
+Paper at EACL'2023 on "Quantifying Context Mixing in Transformers". Research on how to track the information flow inside Large Language Models. *Onderzoek naar technieken om de informatiemtroom in grote taalmodellen in kaart te brengen*
+
+- [Blog post](https://hmohebbi.github.io/blog/value-zeroing)
+- [Article](https://arxiv.org/abs/2301.12971)
+- [Demo](https://huggingface.co/spaces/amsterdamNLP/value-zeroing)
+
 
 ## Arabella Sinclair, Jaap Jumelet, Willem Zuidema, Raquel Fernández (2022)
 Research on how much knowledge of grammar is acquired by large language models.
