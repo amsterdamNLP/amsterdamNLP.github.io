@@ -31,7 +31,7 @@ Article in Nature on how researchers should respond to developments in 'conversa
 [Recording](https://webcolleges.uva.nl/Mediasite/Play/03f5830f6e804ad68e9ec8ba6612d8d81d)
 
 ## Hosein Mohebbi, Willem Zuidema, Grzegorz Chrupała, Afra Alishahi (2023)
-Paper at EACL'2023 on "Quantifying Context Mixing in Transformers". Research on how to track the information flow inside Large Language Models. *Onderzoek naar technieken om de informatiemtroom in grote taalmodellen in kaart te brengen*
+Paper at EACL'2023 on "Quantifying Context Mixing in Transformers". Research on how to track the information flow inside Large Language Models. *Onderzoek naar technieken om de informatiestroom in grote taalmodellen in kaart te brengen*
 
 - [Blog post](https://hmohebbi.github.io/blog/value-zeroing)
 - [Article](https://arxiv.org/abs/2301.12971)
