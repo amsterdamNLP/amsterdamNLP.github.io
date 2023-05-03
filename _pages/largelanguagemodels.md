@@ -39,6 +39,7 @@ Paper at EACL'2023 on "Quantifying Context Mixing in Transformers". Research on 
 
 ## Julia Dawitz, Emma Wiersma and Jelle Zuidema (2023)
 Contributing to a Webinar on [AI in Higher Education](https://media-and-learning.eu/event/ai-in-higher-ed/) on May 24th, 2023.
+
 <img src="../assets/images/AIinEducation.jpg" alt="AIinEducation.jpg" width="450"/>
 
 ## Arabella Sinclair, Jaap Jumelet, Willem Zuidema, Raquel Fernández (2022)
