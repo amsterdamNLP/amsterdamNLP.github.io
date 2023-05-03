@@ -37,6 +37,9 @@ Paper at EACL'2023 on "Quantifying Context Mixing in Transformers". Research on 
 - [Article](https://arxiv.org/abs/2301.12971)
 - [Demo](https://huggingface.co/spaces/amsterdamNLP/value-zeroing)
 
+## Julia Dawitz, Emma Wiersma and Jelle Zuidema (2023)
+Contributing to a Webinar on [AI in Higher Education](https://media-and-learning.eu/event/ai-in-higher-ed/) on May 24th, 2023.
+<img src="../assets/images/AIinEducation.jpg" alt="AIinEducation.jpg" width="450"/>
 
 ## Arabella Sinclair, Jaap Jumelet, Willem Zuidema, Raquel Fernández (2022)
 Research on how much knowledge of grammar is acquired by large language models.
