@@ -104,7 +104,5 @@ Interviewed by Dutch national newspaper Trouw about the emerging field of interp
 
 ## Elia Bruni, Dieuwke Hupkes, Jelle Zuidema, Paul Boersma (2019)
 Public outreach event / *Publieksprogramma* [The technology behind Deep Fake - When fake looks all too real](https://spui25.nl/programma/when-fake-looks-all-too-real)
-https://staff.fnwi.uva.nl/w.zuidema/wp-content/uploads/spui25-edited-2500.mp4?_=2
-  
-<div style="width: 512px; " class="wp-video"><video class="wp-video-shortcode" id="video-210-2" width="512" height="288" preload="metadata" controls="controls"><source type="video/mp4" src="https://staff.fnwi.uva.nl/w.zuidema/wp-content/uploads/spui25-edited-2500.mp4?_=2" /><a href="https://staff.fnwi.uva.nl/w.zuidema/wp-content/uploads/spui25-edited-2500.mp4">https://staff.fnwi.uva.nl/w.zuidema/wp-content/uploads/spui25-edited-2500.mp4</a></video></div>
-<p>or <a href="https://www.facebook.com/spui25/videos/742682212852885/">watch the whole recording on Facebook</a></li>
+
+<video class="wp-video-shortcode" id="video-210-2" width="512" height="288" preload="metadata" controls="controls"><source type="video/mp4" src="https://staff.fnwi.uva.nl/w.zuidema/wp-content/uploads/spui25-edited-2500.mp4?_=2" /><a href="https://staff.fnwi.uva.nl/w.zuidema/wp-content/uploads/spui25-edited-2500.mp4">Introduction</a></video> [watch the whole recording on Facebook](https://www.facebook.com/spui25/videos/742682212852885/)
