@@ -36,8 +36,8 @@ Oskar van der Wal will defend his PhD thesis at 4pm the same day.
 
 #### Registration & Contact
 
-Register [here]{https://forms.cloud.microsoft/e/cRUHkhEMWz}
-Email the organizers [here]{cllab.assist@gmail.com} (or email Jelle Zuidema directly).
+Register [here](https://forms.cloud.microsoft/e/cRUHkhEMWz)
+Email the organizers [here](cllab.assist@gmail.com) (or email Jelle Zuidema directly).
 
 
 
