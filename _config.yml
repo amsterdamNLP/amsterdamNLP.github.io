@@ -62,9 +62,9 @@ author:
   bio    : >
       AmsterdamNLP, a network for anyone interested in academic research in NLP in the Amsterdam area. 
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/amsterdamNLP"
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-bsky-square"
+      url: "https://bsky.com/amsterdamNLP"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/amsterdamNLP"
@@ -74,9 +74,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/amsterdamNLP
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/amsterdamNLP
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-bsky-square"
+      url: https://bsky.com/amsterdamNLP
 
 defaults:
   # _posts
