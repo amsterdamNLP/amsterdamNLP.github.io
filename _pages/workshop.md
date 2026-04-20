@@ -1,6 +1,6 @@
 ---
 title: "Workshop Measuring and mitigating bias in AI"
-permalink: /largelanguagemodels/
+permalink: /workshop/
 layout: single
 author_profile: true
 ---
