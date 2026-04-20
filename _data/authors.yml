@@ -6,9 +6,9 @@ wzuidema:
         - label: "Website"
           icon: "fas fa-fw fa-link"
           url: "https://staff.fnwi.uva.nl/w.zuidema/"
-        - label: "Twitter"
+        - label: "BlueSky"
           icon: "fab fa-fw fa-twitter-square"
-          url: "https://twitter.com/wzuidema"
+          url: "https://bksy.com/wzuidema"
 
 waziz:
     name: "Wilker Aziz"
