@@ -16,7 +16,7 @@ author: AmsterdamNLP
 
 <img src="../assets/images/chirurgischtheater-ooit" alt="Chirurgisch Theater" width="250"/>
 
-On April 29th, from 11am until 3pm, you are invited to attend a workshop to discuss measuring and mitigating bias in modern AI, on the occasion of Oskar vand er Wal's PhD defense later that day (4pm). The workshop is organized by the [Computional Linguistics Seminar](https://projects.illc.uva.nl/LaCo/CLS/) of the Institute for Logic, Language and Computation of the University of Amsterdam, the [Center van Explainable](https://certain-ai.nl/) and the NWA program [InDeep](https://projects.illc.uva.nl/indeep/).
+On April 29th, from 11am until 3pm, you are invited to attend a workshop to discuss measuring and mitigating bias in modern AI, on the occasion of Oskar van der Wal's PhD defense later that day (4pm). The workshop is organized by the [Computional Linguistics Seminar](https://projects.illc.uva.nl/LaCo/CLS/) of the Institute for Logic, Language and Computation of the University of Amsterdam, the [Center van Explainable](https://certain-ai.nl/) and the NWA program [InDeep](https://projects.illc.uva.nl/indeep/).
 
 #### Program
 
