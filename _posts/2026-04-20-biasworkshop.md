@@ -9,8 +9,12 @@ author: AmsterdamNLP
 ---
 
 ### Workshop "Measuring and mitigating bias in AI"
+
 *Time: April 29th, 11am-3pm*
+
 *Location: Chirurgisch Theater, Universiteitsbibliotheek, UvA*
+
+On April 29th, from 11am until 3pm, you are invited to attend a workshop to discuss measuring and mitigating bias in modern AI, on the occasion of Oskar vand er Wal's PhD defense later that day (4pm). The workshop is organized by the [Computional Linguistics Seminar](https://projects.illc.uva.nl/LaCo/CLS/) of the Institute for Logic, Language and Computation of the University of Amsterdam, the [Center van Explainable](https://certain-ai.nl/) and the NWA program [InDeep](https://projects.illc.uva.nl/indeep/).
 
 #### Program
 
