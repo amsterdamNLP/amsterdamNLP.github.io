@@ -10,6 +10,7 @@ author_profile: true
 *Time: April 29th, 11am-3pm*
 
 *Location: Chirurgisch Theater, Universiteitsbibliotheek, UvA*
+Enter via Vendelstraat 2; if you don't have an UvA-card, the porter will let you in. Follow signs for 'Chirurgisch Theater' (i.e., turn right three times, go up the stair and turn right again).
 
 <img src="../assets/images/chirurgischtheater-ooit.jpg" alt="Chirurgisch Theater" width="400"/>
 
