@@ -14,10 +14,15 @@ author_profile: true
 #### Program
 
 14:00 Arrival
+
 14:20 Welcome and Introduction
+
 14:30 Xiaoyu Tong, ILLC, UvA: Nuances of multimodal humor for large language models
+
 15:00 Pia Sommerauer, VU: Stereotype communication in humans and LLM personas
+
 16:00 Desmond Elliott, University of Copenhagen: Towards Understanding and Explaining Vision-Language Models
+
 17:00 Close
 
 #### Related events
