@@ -27,7 +27,7 @@ author_profile: true
 
 #### Related events
 
-Xiaoyu Tong will defend her PhD thesis at 10:30am the following day Friday 3rd July; [more information](https://www.uva.nl/shared-content/uva/en/events/2026/07/dissecting-incongruity-metaphor-and-humor-understanding-of-large-language-models.html)
+Xiaoyu Tong will defend her PhD thesis at 10:30am the following day Friday 3rd July; [more information](https://www.uva.nl/shared-content/uva/en/events/2026/07/dissecting-incongruity-metaphor-and-humor-understanding-of-large-language-models.html) and [news coverage](https://www.uva.nl/shared-content/uva/en/news/news/2026/06/ai-still-struggles-to-get-the-joke.html)
 
 #### Contact
 
